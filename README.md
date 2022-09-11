@@ -1,5 +1,5 @@
 # Olá! Eu sou a Jamile
-* 💻 Atualmente, estudo desenvolvimento web na Trybe
+* 💻 Atualmente estudo desenvolvimento web na Trybe
 * 👩 Pronomes: ela/dela.
 
 <div align="center">
