@@ -1,5 +1,5 @@
 # Olá! Eu sou a Jamile
-* 💻 Sou Pedagoga e Desenvolvedora Web Fullstack pela na Trybe, onde passei por diversas experiências atuando em projetos que simulam a realidade no mercado de trabalho.
+* 💻 Sou Pedagoga e Desenvolvedora Web Fullstack.
 * 👩 Pronomes: ela/dela.
 
 <div align="center">
