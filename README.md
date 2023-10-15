@@ -1,5 +1,5 @@
 # Olá! Eu sou a Jamile
-* 💻 Sou Pedagoga e Desenvolvedora Web Fullstack.
+* 💻 Sou desenvolvedora de software e apaixonada por criar soluções inovadoras e de alta qualidade.Estou iniciando minha transição de carreira em desenvolvimento web fullstack e estou me especializando em QA. Sou uma pessoa proativa, comprometida e estou sempre em busca de desafios para melhorar minhas habilidades e conhecimentos. Para saber mais sobre minhas qualidades e atribuições, entre em conato comigo através das redes sociais linkadas abaixo.
 * 👩 Pronomes: ela/dela.
 
 <div align="center">
