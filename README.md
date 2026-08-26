@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora Full Stack com foco em Backend.
 
-Atualmente participo do **Projeto Aceleradora Ágil**, onde desenvolvo funcionalidades para aplicações web utilizando **React, Next.js, TypeScript, Node.js e PostgreSQL**.
+Participei do **Projeto Aceleradora Ágil**, onde desenvolvo funcionalidades para aplicações web utilizando **React, Next.js, TypeScript, Node.js e PostgreSQL**.
 
 Estou em transição de carreira para a área de tecnologia e busco minha primeira oportunidade como **Desenvolvedora Full Stack/Backend Júnior**, contribuindo com soluções de qualidade, boas práticas e aprendizado contínuo.
 
